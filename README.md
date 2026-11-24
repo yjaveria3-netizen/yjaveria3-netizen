@@ -1,36 +1,33 @@
 
 
- <p align="center">
-  <img src="./robot-factory-ascii.svg" width="100%" alt="Javeria Labs Autonomous Robotics Facility"/>
 
-</p>
 
 
 ```text
                                                                     
-   
+     
                                                                     
-          ██╗ █████╗ ██╗   ██╗███████╗██████╗ ██╗ █████╗           
-          ██║██╔══██╗██║   ██║██╔════╝██╔══██╗██║██╔══██╗          
-          ██║███████║██║   ██║█████╗  ██████╔╝██║███████║          
-     ██   ██║██╔══██║╚██╗ ██╔╝██╔══╝  ██╔══██╗██║██╔══██║          
-     ╚█████╔╝██║  ██║ ╚████╔╝ ███████╗██║  ██║██║██║  ██║          
-      ╚════╝ ╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝          
+                                                      ██╗ █████╗ ██╗   ██╗███████╗██████╗ ██╗ █████╗           
+                                                      ██║██╔══██╗██║   ██║██╔════╝██╔══██╗██║██╔══██╗          
+                                                      ██║███████║██║   ██║█████╗  ██████╔╝██║███████║          
+                                                 ██   ██║██╔══██║╚██╗ ██╔╝██╔══╝  ██╔══██╗██║██╔══██║          
+                                                 ╚█████╔╝██║  ██║ ╚████╔╝ ███████╗██║  ██║██║██║  ██║          
+                                                  ╚════╝ ╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝          
                                                                     
-                    J A V E R I A   Y A S I N
+                                                                J A V E R I A   Y A S I N
                                                                     
-          SOFTWARE ENGINEER  //  AI SYSTEMS ARCHITECT
+                                                      SOFTWARE ENGINEER  //  AI SYSTEMS ARCHITECT
                                                                     
-       [ BOOTING PERSONALITY.EXE .................... OK ]
-       [ LOADING QUESTIONABLE IDEAS ................. OK ]
-       [ INITIALIZING 4 UNNECESSARY AGENTS .......... OK ]
-       [ CHECKING FOR BUGS .......................... FOUND ]
-       [ BLAMING THE COMPILER ....................... OK ]
+                                                 [ BOOTING PERSONALITY.EXE .................... OK ]
+                                                 [ LOADING QUESTIONABLE IDEAS ................. OK ]
+                                                 [ INITIALIZING 4 UNNECESSARY AGENTS .......... OK ]
+                                                 [ CHECKING FOR BUGS .......................... FOUND ]
+                                                 [ BLAMING THE COMPILER ....................... OK ]
                                                                     
-       SYSTEM MESSAGE: IT WORKS ON MY MACHINE.
-       HUMAN STATUS: PROBABLY OVERENGINEERING SOMETHING.
+                                                     SYSTEM MESSAGE: IT WORKS ON MY MACHINE.
+                                                 HUMAN STATUS: PROBABLY OVERENGINEERING SOMETHING.
                                                                     
-                  >>> WELCOME TO JAVERIA LABS <<<
+                                                             >>> WELCOME TO JAVERIA LABS <<<
 
 ```
 
